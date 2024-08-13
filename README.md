@@ -1,9 +1,11 @@
 <div style="text-align: right">
 </div>
+
 <a href="https://www.linkedin.com/in/numan-burak-fidan-msc-01260158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:numanburakfidan@yandex.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://discordapp.com/users/numanburakfidan"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Envoy_#1852" ></a>
 
+[My Website](https://www.numanburakfidan.com)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
