@@ -13,7 +13,7 @@
 
 - 🔗 I’m currently improving my DevOps skills
 - 👐 I’m looking to contribute to a new project
-- 🥅 2024 Goals: Learn artificial neural networks
+- 🥅 2024 Goals: Learn blockchain.
 - ⚡ Fun fact: I use NixOS btw :)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
