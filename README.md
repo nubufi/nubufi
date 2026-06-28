@@ -82,12 +82,7 @@ With experience delivering projects for global organizations through EPAM and bu
 
 ## Featured Projects
 
-- **[PegaDocs](https://pegadocs.com)** — AI-powered knowledge management platform with semantic search and conversational AI via Telegram, Teams, and web. *Generative AI · RAG · LLMs · AWS*
-- **GenieAI** — Healthcare AI platform for clinical concept retrieval, cohort generation, and decision support using agentic workflows. *AWS Bedrock · DSPy · Agentic AI*
-- **MapperAI** — Automated concept mapping and data standardization through intelligent cloud-native processing. *LangChain · AWS Lambda · AWS Bedrock*
-- **TextTabulate** — Document intelligence platform converting unstructured documents into structured datasets. *FastAPI · AWS Bedrock · Data Processing*
-- **Phenotype Library** — Open-source clinical phenotype management system with governance and collaboration. *FastAPI · PostgreSQL · Docker · Vite*
-- **[SoilPrime](https://soilprime.com)** — Geotechnical engineering intelligence platform with analysis, reporting, and decision-support tools. *FastAPI · SolidJS · PostgreSQL · AWS Bedrock*
+- **[PegaDocs](https://github.com/nubufi/pegadocs)** — AI-powered knowledge management platform with semantic search and conversational AI via Telegram, Teams, and web. *Generative AI · RAG · LLMs · AWS*
 
 ---
 
