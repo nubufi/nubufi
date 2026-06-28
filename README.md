@@ -1,79 +1,100 @@
-<div style="text-align: right">
-</div>
-
-<a href="https://www.linkedin.com/in/numan-burak-fidan-msc-01260158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:numanburakfidan@yandex.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://discordapp.com/users/numanburakfidan"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Envoy_#1852" ></a>
-
-[My Website](https://www.numanburakfidan.com)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
-
-## About Me...
-
-- 🔗 I’m currently improving my DevOps skills
-- 👐 I’m looking to contribute to a new project
-- 🥅 2024 Goals: Learn blockchain.
-- ⚡ Fun fact: I use NixOS btw :)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-
-```solidity
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.15;
-
-contract Profile {
-    string public name = "Numan Burak Fidan";
-    string public pronouns = "He | Him";
-    string public currentFocus = "Backend Development";
-
-    string[] internal skills;
-
-    function getSkills() public returns (string[] memory) {
-        skills = [
-	        "Golang",
-            "Javascript/Typescript",
-            "Python",
-        ];
-
-        return skills;
-    }
-
-    function fun() public view returns (string memory) {
-        return
-            "Two bytes meet.  The first byte asks, 'Are you ill?' The second byte replies, 'No, just feeling a bit off.'";
-    }
-}
-
-```
-
-<br>
-
----
-### 🤹 My Skill Set
 <div align="center">
-<br>
 
-<img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzZ14YKDLmxc0DUMf33c12suLr_c-r5U4ZFw&s" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" height="50" />
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_go_gopher_icon_130571.png" alt="GO" height="50" />
-
-<br>
-
-<img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" alt="Kubernetes" height="50" />  
-<img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker" height="50" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" height="50" />
-
-<br>
-
-<img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDb" height="50" />
-<img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt="Redis" height="50" />
+<a href="https://www.numanburakfidan.com"><img src="https://img.shields.io/badge/Website-numanburakfidan.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/numan-burak-fidan-msc-01260158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:numanburakf@gmail.com"><img src="https://img.shields.io/badge/Email-numanburakf%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
 
 ---
-<img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="">
+
+## About Me
+
+**Full Stack AI Engineer & Entrepreneur**
+
+I specialize in designing and developing AI-powered applications, enterprise automation platforms, and data-driven systems that transform complex processes into efficient, scalable solutions. My expertise spans generative AI, large language models (LLMs), coding agents, and scalable backend systems.
+
+With experience delivering projects for global organizations through EPAM and building my own AI initiatives, including PegaDocs, I have worked across the full product lifecycle — from ideation and architecture to implementation and deployment. I bridge the gap between cutting-edge AI technologies and practical business needs.
+
+> *"Creating intelligent systems that make work simpler and smarter."*
+
+---
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### AI / ML
+![DSPy](https://img.shields.io/badge/DSPy-FF6B35?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-0066CC?style=flat-square)
+
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Echo](https://img.shields.io/badge/Echo-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![SolidJS](https://img.shields.io/badge/SolidJS-2C4F7C?style=flat-square&logo=solid&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+### Coding Agents
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-4169E1?style=flat-square)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white)
+
+---
+
+## Certificates
+
+| Provider | Certification |
+|---|---|
+| **Microsoft** | [Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/NumanBurakFidan-8045/FF5FA9357AF105E0?sharingId=65F5861D63130070) |
+| **Microsoft** | [Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/NumanBurakFidan-8045/FA55D99940A872C6?sharingId=65F5861D63130070) |
+| **Microsoft** | [Agentic AI Business Solutions Architect](https://learn.microsoft.com/api/credentials/share/en-us/NumanBurakFidan-8045/A59CF1F494B07506?sharingId=65F5861D63130070) |
+| **Microsoft** | [GitHub Copilot](https://learn.microsoft.com/en-us/users/numanburakfidan-8045/credentials/a03f11ed8a0a6bc5) |
+| **AWS** | [AWS Certified AI Practitioner](https://www.credly.com/badges/254576dd-57a0-4f62-9802-c391612657b9/linked_in) |
+| **Databricks** | [Generative AI Engineer Associate](https://credentials.databricks.com/32c85057-827c-44f4-b205-ad5371a6105c#acc.eH3lF9RS) |
+| **Anthropic** | [Claude Certified Architect - Foundations](https://verify.skilljar.com/c/e23pn9ndghq5) |
+| **Google Cloud** | [Generative AI Leader](https://www.credly.com/badges/ca46695f-3eff-42e9-8212-a230b1e694f0) |
+| **Google Cloud** | [Gemini Enterprise Agent Development](https://www.credly.com/badges/f327fc38-0713-4a8d-a76c-8ab6de41352b/linked_in_profile) |
+
+---
+
+## Featured Projects
+
+- **[PegaDocs](https://pegadocs.com)** — AI-powered knowledge management platform with semantic search and conversational AI via Telegram, Teams, and web. *Generative AI · RAG · LLMs · AWS*
+- **GenieAI** — Healthcare AI platform for clinical concept retrieval, cohort generation, and decision support using agentic workflows. *AWS Bedrock · DSPy · Agentic AI*
+- **MapperAI** — Automated concept mapping and data standardization through intelligent cloud-native processing. *LangChain · AWS Lambda · AWS Bedrock*
+- **TextTabulate** — Document intelligence platform converting unstructured documents into structured datasets. *FastAPI · AWS Bedrock · Data Processing*
+- **Phenotype Library** — Open-source clinical phenotype management system with governance and collaboration. *FastAPI · PostgreSQL · Docker · Vite*
+- **[SoilPrime](https://soilprime.com)** — Geotechnical engineering intelligence platform with analysis, reporting, and decision-support tools. *FastAPI · SolidJS · PostgreSQL · AWS Bedrock*
+
+---
+
+## Experience
+
+| Role | Company | Period |
+|---|---|---|
+| **Senior Software Engineer / AI Engineer** | EPAM Systems | Nov 2024 – Present |
+| **Founder & Lead Engineer** | PegaCore (PegaDocs) | Sep 2025 – Present |
+| **Co-Founder & Lead Engineer** | Geoport (SoilPrime) | Aug 2019 – Present |
