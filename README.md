@@ -74,11 +74,6 @@ With experience delivering projects for global organizations through EPAM and bu
 | **Google Cloud** | [Generative AI Leader](https://www.credly.com/badges/ca46695f-3eff-42e9-8212-a230b1e694f0) |
 | **Google Cloud** | [Gemini Enterprise Agent Development](https://www.credly.com/badges/f327fc38-0713-4a8d-a76c-8ab6de41352b/linked_in_profile) |
 
----
-
-## Featured Projects
-
-- **[PegaDocs](https://github.com/nubufi/pegadocs)** — AI-powered knowledge management platform with semantic search and conversational AI via Telegram, Teams, and web. *Generative AI · RAG · LLMs · AWS*
 
 ---
 
