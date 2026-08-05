@@ -68,6 +68,7 @@ With experience delivering projects for global organizations through EPAM and bu
 | **Microsoft** | [Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/NumanBurakFidan-8045/FA55D99940A872C6?sharingId=65F5861D63130070) |
 | **Microsoft** | [Agentic AI Business Solutions Architect](https://learn.microsoft.com/api/credentials/share/en-us/NumanBurakFidan-8045/A59CF1F494B07506?sharingId=65F5861D63130070) |
 | **Microsoft** | [GitHub Copilot](https://learn.microsoft.com/en-us/users/numanburakfidan-8045/credentials/a03f11ed8a0a6bc5) |
+| **AWS** | [AWS Certified Generative AI Developer - Professional](https://www.credly.com/badges/145daf81-5875-43ab-b7ba-022710334ea2/public_url) |
 | **AWS** | [AWS Certified AI Practitioner](https://www.credly.com/badges/254576dd-57a0-4f62-9802-c391612657b9/linked_in) |
 | **Databricks** | [Generative AI Engineer Associate](https://credentials.databricks.com/32c85057-827c-44f4-b205-ad5371a6105c#acc.eH3lF9RS) |
 | **Anthropic** | [Claude Certified Architect - Foundations](https://verify.skilljar.com/c/e23pn9ndghq5) |
